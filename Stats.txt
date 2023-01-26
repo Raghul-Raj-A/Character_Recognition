@@ -1,0 +1,34 @@
+	>>>>DETAILED REPORT<<<<
+
+Number of input neurons : 288
+
+Number of hidden neurons : 80
+
+Number of output neurons : 10
+
+Number of characters : 10
+
+Number of training samples in each character : 2
+
+Total number of training samples : 20
+
+Pre-defined target error : 0.0035
+
+#Note : Target error and Number of training samples are predefined 
+	  values can be changed @ Parameters
+
+Number of times weight changed between layers: 
+
+Input and Hidden :11980800	Hidden and output :416000
+
+Accuracy : 0.40000 
+
+Number of iterations : 52
+
+Time taken to train : 28.4823s
+
+>>Warning : Model is not trained with UpperCase Letters
+
+>>Warning : Model is not trained with LowerCase Letters
+
+	Code compiled/edited by Raghul Raj A :)
